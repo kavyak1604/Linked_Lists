@@ -5,17 +5,18 @@ Singly linked list is a type of data structure that is made up of nodes that are
 Each of these nodes contain two parts, namely the data and the reference to the next list node. Only the reference to the first list node is required to access the whole linked list. This is known as the head. The last node in the list points to nothing so it stores NULL in that part.
 
 
-## About
+## Algorithm
+1)Start<br>
+2)Define a Node<br>
+3)Create four Node objects: newNode1, newNode2, newNode3, and newNode4.
+Assign integer values (10, 20, 30, and 40) to the data attribute of each node.
+Link the nodes to form a linked list by setting the next attribute of each node to point to the next node in the sequence.<br>
+4)Display the data and addresses of each node individually.<br>
+5)Display the data and addresses of the linked list using a loop.<br>
+6)End<br>
 
-Explain what your project does, what problem it solves, and why it is valuable.
-
-## Getting Started
-
-Provide instructions on how to get your project up and running. Include information about prerequisites and installation steps.
-
-### Prerequisites
-
-List any software, libraries, or hardware that users need to have before using your project.
+## Conclusion
+Hence in this repository program using linked lists was implemented.
 
 
 
